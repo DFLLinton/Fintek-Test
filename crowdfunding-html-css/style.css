@@ -1,0 +1,139 @@
+/*
+	Please add your custom CSS in this file. The hex codes for the colours are below.
+
+	Main text color (grey): #838383
+	Dark grey for the speech bubble at the top: #424242
+	Grey border colour for the main content area, and the buttons at the bottom: #DCDCDC
+	Orange colour for the highlighted "only 3 days left" text and the progress bar: #F15E33
+	The background for the part of the progress bar that isn't filled in: #FAFAFA
+	Buttons at the bottom: #838383
+	Green button: #00BE1C
+	Green button border: #01B21A
+	"Why give 50" link: #25A5D8
+*/
+#wrapper{
+	width: 300px;
+	height: 350px;
+	font-family: 'Roboto', sans-serif;
+	margin: 0 auto;
+	margin-top: 10%
+}
+#commentBox{
+	width: 100%;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #424242;
+	text-align: center;
+}
+#commentBoxWriting{
+	color: white;
+	font-size: 15px;
+}
+#triangle{
+	width: 0;
+height: 0;
+border-style: solid;
+border-width: 13px 9px 0 9px;
+border-color: #424242 transparent transparent transparent;
+margin-left: 80%;
+margin-bottom: 5px;
+}
+#box{
+	background-color: white;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	border: 2px solid #DCDCDC;
+	text-align: left;
+
+}
+#progressbar{
+	background-color: #FAFAFA;
+	width: 100%;
+	height: 15px;
+	border-bottom: 2px solid #DCDCDC;
+}
+#progress{
+	background-color: #F15E33;
+	width: 80%;
+	height: 15px;
+}
+h2 {
+	padding: 15px 15px 0px 15px;
+	color:  #838383;
+	font-size: 16px;
+	font-family: 'Roboto';
+	font-weight: normal;
+}
+p {
+	padding: 15px 15px 0px 15px;
+	color:  #838383;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 22px;
+}
+#twocolumns{
+	padding: 15px 15px 0px 15px;
+	text-align: center;
+}
+#donationSubmit{
+	background-color:#00BE1C;
+	text-decoration: none;
+	color: white;
+	border: 1px solid #01B21A;
+	padding: 10px 20px 10px 20px;
+	border-radius: 5px;
+	font-weight: normal;
+	font-size: 16px;
+	width: 100px;
+	height: 50px;
+}
+#donationAmount{
+	height: 42px;
+	width: 110px;
+	font-size: 18px;
+	padding-left: 8px;
+	margin-right: 15px;
+	border: 1px solid #DCDCDC;
+	border-radius: 5px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+#link{
+	font-style: italic;
+	color: #25A5D8;
+	font-size: 15px;
+}
+#twoButtons{
+	padding: 15px 0px 0px 0px;
+	text-align: justify;
+}
+#finalButtonOne{
+	background-color:white;
+	text-decoration: none;
+	color: #838383;
+	border: 1px solid #DCDCDC;
+	padding: 7px 14px 7px 14px;
+	border-radius: 5px;
+	font-weight: normal;
+	font-size: 14px;
+	width: 100px;
+	height: 50px;
+	font-weight: bold;
+}
+#finalButtonTwo{
+	background-color:white;
+	text-decoration: none;
+	color: #838383;
+	border: 1px solid #DCDCDC;
+	padding: 7px 14px 7px 14px;
+	border-radius: 5px;
+	font-weight: normal;
+	font-size: 14px;
+	width: 100px;
+	height: 50px;
+	font-weight: bold;
+	margin-left: 48px;
+}
+
