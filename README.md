@@ -1,4 +1,8 @@
 # HTML / CSS code test #
+
+You can view a live preview of my work <a href="https://dfllinton.github.io/Fintek-Test/">here</a>
+
+
 This is a short code test for front-end developers at Fintek Software.
 
 Please look at the "Crowdfunding box.PNG" image in this directory. Your task is to recreate this image using HTML and CSS.  
