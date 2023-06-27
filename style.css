@@ -62,7 +62,7 @@ h2 {
 	padding: 15px 15px 0px 15px;
 	color:  #838383;
 	font-size: 16px;
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
 }
 p {
@@ -117,7 +117,7 @@ p {
 	padding: 7px 14px 7px 14px;
 	border-radius: 5px;
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 12px;
 	width: 100px;
 	height: 50px;
 	font-weight: bold;
@@ -130,7 +130,7 @@ p {
 	padding: 7px 14px 7px 14px;
 	border-radius: 5px;
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 12px;
 	width: 100px;
 	height: 50px;
 	font-weight: bold;
